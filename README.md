@@ -6,6 +6,8 @@
 - 🦮🐕‍🦺 I Have An Australian Shepard And Yellow Lab
 - 👍 [Facebook Level-Up Streamer][facebook]
 
+</br>
+
 ## Software/Technologies Used
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Robo3T](https://robomongo.org/)
@@ -15,6 +17,8 @@
 - [Git Bash](https://gitforwindows.org/)
 - [Heroku](https://dashboard.heroku.com/)
 - [Slack](https://slack.com/)
+
+</br>
 
 ## Languages Learned
 [![Markdown](https://img.shields.io/badge/Markdown-informational.svg)](https://www.markdownguide.org/)
@@ -27,6 +31,7 @@
 [![MySQL](https://img.shields.io/badge/MySQL-F29111.svg)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D.svg)](https://www.mongodb.com/)
 
+</br>
 
 ## Feel Free To Connect With Me😊
 - Visit my [Portfolio][ikemous]
@@ -34,6 +39,11 @@
 - [Facebook][facebook]
 - [Twitter](twitter)
 - [Instagram][instagram]
+
+</br>
+
+<!-- API took from codeSTACKr's ReadMe -->
+<img align="left" alt="Ikemous Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikemous&show_icons=true&hide_border=true" />
 
 [ikemous]: ikemous.com
 [facebook]: https://www.facebook.com/ikemous
