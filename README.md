@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 # 👋Hello My Name Is Ike Barranco! - aka [Ikemous][ikemous]
 
 ## I'm A Full-Stack Developer, IT Specialist,  and Facebook Content Creator
@@ -42,4 +43,3 @@
 [github]: https://github.com/ikemous
 [twitter]: https://twitter.com/real_ikemous
 [instagram]: https://www.instagram.com/the_real_ikemous/
-<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
