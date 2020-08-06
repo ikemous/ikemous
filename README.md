@@ -30,8 +30,8 @@
 
 ## Feel Free To Connect With Me😊
 [<i class="fas fa-book-reader" style="font-size:25px; padding-right: 20px"></i>][ikemous]
-[<i class="fab fa-github" style="color: black;font-size:25px; padding-right: 20px"></i>][github]
-[Facebook][facebook]
+[<i class="fab fa-github-square" style="color: #211F1F;font-size:25px; padding-right: 20px"></i>][github]
+[<i class="fab fa-facebook-square" style="color:#3b5998; font-size:25px; padding-right: 20px"></i>][facebook]
 [Twitter](twitter)
 [Instagram][instagram]
 
