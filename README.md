@@ -29,14 +29,17 @@
 
 
 ## Feel Free To Connect With Me😊
-- Visit my [Portfolio][ikemous]
-- [Github][github] Profile
-- [Facebook][facebook]
-- [Twitter](twitter)
-- [Instagram][instagram]
+[<i class="fas fa-book-reader" style="font-size:25px; padding-right: 20px"></i>][ikemous]
+[<i class="fab fa-github" style="color: black;font-size:25px; padding-right: 20px"></i>][github]
+[Facebook][facebook]
+[Twitter](twitter)
+[Instagram][instagram]
+
+
 
 [ikemous]: ikemous.com
 [facebook]: https://www.facebook.com/ikemous
 [github]: https://github.com/ikemous
 [twitter]: https://twitter.com/real_ikemous
 [instagram]: https://www.instagram.com/the_real_ikemous/
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
