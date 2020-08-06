@@ -42,7 +42,7 @@
 
 </br>
 
-<!-- API took from codeSTACKr's ReadMe -->
+<!-- API took from codeSTACKr's ReadMe - src:https://www.youtube.com/watch?v=ECuqb5Tv9qI&list=WL&index=16&t=0s -->
 <img align="left" alt="Ikemous Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikemous&show_icons=true&hide_border=true" />
 
 [ikemous]: ikemous.com
