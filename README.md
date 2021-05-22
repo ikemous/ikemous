@@ -34,10 +34,7 @@
 
 ## Feel Free To Connect With Me😊
 - Visit my [Portfolio][ikemous]
-- [Github][github] Profile
-- [Facebook][facebook]
-- [Twitter](twitter)
-- [Instagram][instagram]
+- [Github][github] Profile\
 
 </br>
 
