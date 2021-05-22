@@ -4,7 +4,6 @@
 - 👨‍💻 Went To School at the University of Utah for Full-Stack Development
 - 💻 Worked In The IT Field For Over 3 Years!
 - 🦮🐕‍🦺 I Have An Australian Shepard And Yellow Lab
-- 👍 [Facebook Level-Up Streamer][facebook]
 
 </br>
 
@@ -45,8 +44,5 @@
 <!-- API took from codeSTACKr's ReadMe - src:https://www.youtube.com/watch?v=ECuqb5Tv9qI&list=WL&index=16&t=0s -->
 <img align="left" alt="Ikemous Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikemous&show_icons=true&hide_border=true" />
 
-[ikemous]: ikemous.com
-[facebook]: https://www.facebook.com/ikemous
+[ikemous]: ikemous.herokuapp.com
 [github]: https://github.com/ikemous
-[twitter]: https://twitter.com/real_ikemous
-[instagram]: https://www.instagram.com/the_real_ikemous/
